@@ -1,0 +1,9 @@
+[Unit]
+Desctiption=Run disk_check in specific increments
+
+[Timer]
+OnBootSec=1min
+OnUnitActiveSec=5min
+
+[Install]
+WantedBy=timers.target

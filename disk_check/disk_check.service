@@ -1,0 +1,6 @@
+[Unit]
+Description=service to run disk_check
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/disk_check.sh
