@@ -1,4 +1,4 @@
-# Lab 1: Your own Linux server
+# 00: Your own Linux server (VM setup)
 
 Ubuntu Server 26.04.1 LTS (ARM64) running in VirtualBox on an M3 Mac. No desktop, logged into over ssh from the Mac terminal.
 

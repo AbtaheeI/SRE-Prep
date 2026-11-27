@@ -8,7 +8,7 @@ Everything starts on my own Ubuntu Server VM in VirtualBox, then moves to Docker
 
 | # | Lab | Status |
 |---|---|---|
-| 01 | [Your own Linux server](lab01-linux-server/notes.md) | Done |
+| 01 | [Your own Linux server](linux/00-vm-setup.md) | Done |
 | 02 | Permissions and processes | |
 | 03 | Bash scripting | |
 | 04 | systemd services and a full disk | |
